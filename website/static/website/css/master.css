@@ -1,0 +1,27 @@
+#navbar {
+  height: 100%;
+  width: 100%;
+  background: black;
+  margin: 5px;
+}
+
+#nav {
+  /* color: red; */
+}
+
+#content {
+  background: black;
+}
+
+/* #inside {
+  background: silver;
+} */
+
+h1, h2, h3, h4, p {
+  color: white;
+}
+
+a {
+
+  color: green;
+}
